@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(white,black);
+}
+.reset-password{
+    width: 600px;
+    height: 400px;
+    background-color: #fff;
+    color: red;
+    top: 62%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding: 30px 70px;
+    opacity: 0.76;
+    border-radius: 30px;
+    border-style: dashed;
+    background-image: linear-gradient(black,white,black);
+}
+.reset{
+    width: 450px;
+    height: 250px;
+    position: absolute;
+    top: -50%;
+    left: -55%;
+    left: calc(5% - 50px);
+}
+h2{
+    width: 10px;
+    height: 10px;
+    margin: 0px;
+    padding: 0 0 70px;
+    font-weight: bold;
+}
+.reset-password input{
+    width: 250px;
+    height: 30px;
+    color: #000;
+    margin-bottom: 20px;
+    border-radius: 20px;
+}
+.reset-password input[type="Submit"]
+{
+    border: 2;
+    border-bottom: -4px solid #fff;
+    outline: none;
+    height: 40px;
+    background: #fb2525;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.reset-password input[type="Submit"]:hover{
+     cursor: pointer;
+     background: #ffc107;
+     color: #000;
+    
+}
+.reset-password a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: dimgray;
+}
+.form{
+    left: 30%;
+    right: 50%;
+    position:relative;
+}
+    
