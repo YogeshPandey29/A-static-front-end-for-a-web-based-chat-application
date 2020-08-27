@@ -1,1 +1,1 @@
-# A-static-front-end-for-a-web-based-chat-application
+As a part of the curriculum, we were required to work in a group of two, to complete a project based on web development. Hence, we made a static front end system for the client-side. The project involved the creation of mainly 7- 8 web pages which collectively included Sign-up page, Log-in page, forms, and the main UI for the messaging platform. Apart from HTML and CSS, we also used a few frameworks viz. Bootstrap in order to make our application more responsive.for multiple devices.
